@@ -574,6 +574,10 @@ video {
   left: 0px;
 }
 
+.top-1 {
+  top: 0.25rem;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -891,6 +895,14 @@ video {
 
   .sm\:left-1 {
     left: 0.25rem;
+  }
+
+  .sm\:h-8 {
+    height: 2rem;
+  }
+
+  .sm\:w-8 {
+    width: 2rem;
   }
 
   .sm\:flex-row {
